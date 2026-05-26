@@ -27,7 +27,8 @@ A project to manage student details and records.
 ## Connect with me
 
 LinkedIn:
-[Add your LinkedIn URL]
+www.linkedin.com/in/
+prakash-thuraka
 
 Email:
 thurakaprakash123@gmail.com
