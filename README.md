@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Thuraka Prakash
 
-<!--
-**prakash-thuraka/prakash-thuraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year CSE Student passionate about Java and Software Development.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 B.Tech CSE Student
+- 💻 Interested in Java Development
+- 🌱 Currently learning DSA and Backend Development
+- 🚀 Looking for Software Engineer opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- C
+- HTML
+- CSS
+- SQL
+- Problem Solving
+
+## Projects
+
+### Library Management System
+A system to manage books, users, issue and return operations using Java.
+
+### Student Management System
+A project to manage student details and records.
+
+## Connect with me
+
+LinkedIn:
+[Add your LinkedIn URL]
+
+Email:
+thurakaprakash123@gmail.com
